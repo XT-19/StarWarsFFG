@@ -94,7 +94,7 @@
   "SWFFG.VehicleCurrentSpeed": "Aktuell",
   "SWFFG.VehicleHandling": "Wendigkeit",
   "SWFFG.VehicleHullTrama": "Hüllenschaden",
-  "SWFFG.VehicleHullStrain": "Systembelastung",
+  "SWFFG.VehicleSystemStrain": "Systembelastung",
   "SWFFG.VehicleTabCargo": "Ladung & Ausrüstung",
   "SWFFG.VehicleHardPoints": "AP",
   "SWFFG.VehicleEncumbranceCapacity": "Max. Belastung",
